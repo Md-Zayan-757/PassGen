@@ -70,4 +70,4 @@ if st.button("🔄 Generate Password"):
         st.code(password, language="")
 
         # Strength display
-        st.markdown(f"**Strength:** `{strength}`")
+        st.markdown(f"# **Strength:** `{strength}`")
